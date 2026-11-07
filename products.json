@@ -1,0 +1,344 @@
+[
+  {
+    "name": "Aurora X1 5G Smartphone",
+    "brand": "Aurora",
+    "category": "Smartphones",
+    "price": 24999,
+    "mrp": 29999,
+    "rating": 4.5,
+    "reviews": 3812,
+    "stock": 40,
+    "emoji": "📱",
+    "color": "#6366f1",
+    "description": "Flagship-feel 5G phone with a 120Hz AMOLED display, 50MP camera and all-day battery with 67W fast charging.",
+    "specs": [
+      "6.7\" AMOLED 120Hz",
+      "8GB RAM / 128GB",
+      "50MP triple camera",
+      "5000mAh, 67W charging"
+    ]
+  },
+  {
+    "name": "Aurora Lite 4G Smartphone",
+    "brand": "Aurora",
+    "category": "Smartphones",
+    "price": 10999,
+    "mrp": 13999,
+    "rating": 4.2,
+    "reviews": 9210,
+    "stock": 120,
+    "emoji": "📱",
+    "color": "#8b5cf6",
+    "description": "Budget-friendly smartphone with a smooth 90Hz display and a battery that lasts two days.",
+    "specs": [
+      "6.5\" HD+ 90Hz",
+      "4GB RAM / 64GB",
+      "13MP dual camera",
+      "5000mAh"
+    ]
+  },
+  {
+    "name": "Nimbus Pro 14 Laptop",
+    "brand": "Nimbus",
+    "category": "Laptops",
+    "price": 58990,
+    "mrp": 69990,
+    "rating": 4.6,
+    "reviews": 1204,
+    "stock": 18,
+    "emoji": "💻",
+    "color": "#0ea5e9",
+    "description": "Thin and light productivity laptop with a 14\" 2.2K display, 16GB RAM and a blazing-fast NVMe SSD.",
+    "specs": [
+      "14\" 2.2K IPS",
+      "Ryzen 7 / 16GB RAM",
+      "512GB NVMe SSD",
+      "12 hrs battery, 1.3kg"
+    ]
+  },
+  {
+    "name": "Nimbus Air 13 Ultrabook",
+    "brand": "Nimbus",
+    "category": "Laptops",
+    "price": 74990,
+    "mrp": 84990,
+    "rating": 4.7,
+    "reviews": 642,
+    "stock": 9,
+    "emoji": "💻",
+    "color": "#06b6d4",
+    "description": "Premium aluminium ultrabook for creators and travellers with an OLED panel and fanless design.",
+    "specs": [
+      "13.3\" OLED",
+      "Core Ultra 7 / 16GB",
+      "1TB SSD",
+      "Fanless, 1.1kg"
+    ]
+  },
+  {
+    "name": "Pulse ANC Wireless Earbuds",
+    "brand": "Pulse",
+    "category": "Audio",
+    "price": 3499,
+    "mrp": 5999,
+    "rating": 4.4,
+    "reviews": 15230,
+    "stock": 250,
+    "emoji": "🎧",
+    "color": "#ec4899",
+    "description": "Active noise cancelling earbuds with 36-hour total playtime and low-latency gaming mode.",
+    "specs": [
+      "ANC up to 35dB",
+      "36 hrs playtime",
+      "IPX5",
+      "Bluetooth 5.3"
+    ]
+  },
+  {
+    "name": "Pulse Studio Over-Ear Headphones",
+    "brand": "Pulse",
+    "category": "Audio",
+    "price": 6999,
+    "mrp": 9999,
+    "rating": 4.5,
+    "reviews": 4120,
+    "stock": 60,
+    "emoji": "🎧",
+    "color": "#f43f5e",
+    "description": "Studio-tuned over-ear wireless headphones with plush memory-foam cushions and 60-hour battery.",
+    "specs": [
+      "40mm dynamic drivers",
+      "60 hrs battery",
+      "Multipoint pairing",
+      "USB-C fast charge"
+    ]
+  },
+  {
+    "name": "Boomer Mini Bluetooth Speaker",
+    "brand": "Boomer",
+    "category": "Audio",
+    "price": 1999,
+    "mrp": 3499,
+    "rating": 4.3,
+    "reviews": 22140,
+    "stock": 300,
+    "emoji": "🔊",
+    "color": "#f97316",
+    "description": "Pocket-sized waterproof speaker that delivers surprisingly deep bass and 12 hours of playback.",
+    "specs": [
+      "10W output",
+      "IP67 waterproof",
+      "12 hrs playback",
+      "TWS pairing"
+    ]
+  },
+  {
+    "name": "Chrono Fit Smartwatch",
+    "brand": "Chrono",
+    "category": "Wearables",
+    "price": 4499,
+    "mrp": 7999,
+    "rating": 4.3,
+    "reviews": 18760,
+    "stock": 150,
+    "emoji": "⌚",
+    "color": "#10b981",
+    "description": "Fitness smartwatch with a bright AMOLED display, SpO2, heart-rate tracking and 100+ sports modes.",
+    "specs": [
+      "1.8\" AMOLED",
+      "SpO2 + HR + sleep",
+      "100+ sport modes",
+      "10-day battery"
+    ]
+  },
+  {
+    "name": "Chrono Band 3 Fitness Tracker",
+    "brand": "Chrono",
+    "category": "Wearables",
+    "price": 1799,
+    "mrp": 2999,
+    "rating": 4.1,
+    "reviews": 30210,
+    "stock": 400,
+    "emoji": "⌚",
+    "color": "#14b8a6",
+    "description": "Slim fitness band for everyday steps, sleep and heart-rate tracking with a week-long battery.",
+    "specs": [
+      "1.47\" colour display",
+      "14-day battery",
+      "5ATM water resistant",
+      "Sleep tracking"
+    ]
+  },
+  {
+    "name": "Zap 65W GaN Fast Charger",
+    "brand": "Zap",
+    "category": "Accessories",
+    "price": 1499,
+    "mrp": 2499,
+    "rating": 4.6,
+    "reviews": 8740,
+    "stock": 500,
+    "emoji": "🔌",
+    "color": "#eab308",
+    "description": "Compact 3-port GaN charger that powers a laptop, phone and earbuds at the same time.",
+    "specs": [
+      "65W total output",
+      "2x USB-C + 1x USB-A",
+      "GaN technology",
+      "Foldable pins"
+    ]
+  },
+  {
+    "name": "Zap 20000mAh Power Bank",
+    "brand": "Zap",
+    "category": "Accessories",
+    "price": 1999,
+    "mrp": 3299,
+    "rating": 4.4,
+    "reviews": 12900,
+    "stock": 220,
+    "emoji": "🔋",
+    "color": "#f59e0b",
+    "description": "High-capacity 22.5W power bank that charges two devices at once and survives a week away.",
+    "specs": [
+      "20000mAh",
+      "22.5W fast charging",
+      "Dual output",
+      "LED battery indicator"
+    ]
+  },
+  {
+    "name": "Vista 4K Smart TV 50\"",
+    "brand": "Vista",
+    "category": "TVs",
+    "price": 29999,
+    "mrp": 44999,
+    "rating": 4.4,
+    "reviews": 6310,
+    "stock": 25,
+    "emoji": "📺",
+    "color": "#3b82f6",
+    "description": "Crisp 4K Ultra HD smart TV with Dolby Vision, built-in streaming apps and a voice remote.",
+    "specs": [
+      "50\" 4K UHD",
+      "Dolby Vision + Atmos",
+      "Google TV",
+      "3x HDMI, 2x USB"
+    ]
+  },
+  {
+    "name": "Vista 32\" HD Smart TV",
+    "brand": "Vista",
+    "category": "TVs",
+    "price": 11999,
+    "mrp": 17999,
+    "rating": 4.2,
+    "reviews": 19840,
+    "stock": 70,
+    "emoji": "📺",
+    "color": "#60a5fa",
+    "description": "Compact HD smart TV that fits any bedroom, with all the major streaming apps built in.",
+    "specs": [
+      "32\" HD Ready",
+      "20W stereo speakers",
+      "Smart TV",
+      "2x HDMI, 1x USB"
+    ]
+  },
+  {
+    "name": "Lens Pro Mirrorless Camera",
+    "brand": "Lens",
+    "category": "Cameras",
+    "price": 52999,
+    "mrp": 62999,
+    "rating": 4.6,
+    "reviews": 980,
+    "stock": 12,
+    "emoji": "📷",
+    "color": "#64748b",
+    "description": "24MP mirrorless camera with 4K video, fast autofocus and a kit lens, ideal for vloggers and travel.",
+    "specs": [
+      "24MP APS-C",
+      "4K 30fps video",
+      "Eye-AF tracking",
+      "Wi-Fi + Bluetooth"
+    ]
+  },
+  {
+    "name": "Click RGB Mechanical Keyboard",
+    "brand": "Click",
+    "category": "Accessories",
+    "price": 2799,
+    "mrp": 4499,
+    "rating": 4.5,
+    "reviews": 7120,
+    "stock": 90,
+    "emoji": "⌨️",
+    "color": "#a855f7",
+    "description": "Hot-swappable mechanical keyboard with per-key RGB, PBT keycaps and tactile switches.",
+    "specs": [
+      "75% layout",
+      "Hot-swappable",
+      "PBT keycaps",
+      "USB-C + wireless"
+    ]
+  },
+  {
+    "name": "Glide Ergonomic Wireless Mouse",
+    "brand": "Glide",
+    "category": "Accessories",
+    "price": 999,
+    "mrp": 1799,
+    "rating": 4.3,
+    "reviews": 25610,
+    "stock": 350,
+    "emoji": "🖱️",
+    "color": "#22c55e",
+    "description": "Comfortable ergonomic mouse with silent clicks and a 12-month battery life.",
+    "specs": [
+      "Silent clicks",
+      "4000 DPI",
+      "12-month battery",
+      "Bluetooth + 2.4GHz"
+    ]
+  },
+  {
+    "name": "Home Cam 360 Security Camera",
+    "brand": "Sentry",
+    "category": "Smart Home",
+    "price": 2499,
+    "mrp": 3999,
+    "rating": 4.2,
+    "reviews": 11450,
+    "stock": 130,
+    "emoji": "📹",
+    "color": "#ef4444",
+    "description": "2K indoor security camera with 360° pan, night vision and two-way talk.",
+    "specs": [
+      "2K resolution",
+      "360° pan-tilt",
+      "Colour night vision",
+      "Two-way audio"
+    ]
+  },
+  {
+    "name": "Glow Smart LED Bulb (Pack of 4)",
+    "brand": "Glow",
+    "category": "Smart Home",
+    "price": 1299,
+    "mrp": 2199,
+    "rating": 4.1,
+    "reviews": 17320,
+    "stock": 280,
+    "emoji": "💡",
+    "color": "#facc15",
+    "description": "Wi-Fi smart bulbs with 16 million colours that work with Alexa and Google Assistant.",
+    "specs": [
+      "9W, B22 base",
+      "16M colours",
+      "Voice control",
+      "Scheduling & scenes"
+    ]
+  }
+]

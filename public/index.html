@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VoltKart – Electronics, delivered</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap topbar-row">
+      <a href="#" class="logo" data-nav="home" aria-label="VoltKart home">Volt<span>Kart</span></a>
+      <form class="search" id="searchForm" role="search">
+        <input id="searchInput" type="search" placeholder="Search phones, laptops, earbuds…" aria-label="Search products" autocomplete="off">
+        <button type="submit">Search</button>
+      </form>
+      <nav class="actions">
+        <button class="link-btn" id="accountBtn">Log in</button>
+        <button class="link-btn" id="ordersBtn" hidden>My orders</button>
+        <button class="cart-btn" id="cartBtn" aria-label="Open cart">Cart <b id="cartCount">0</b></button>
+      </nav>
+    </div>
+  </header>
+
+  <main id="view"></main>
+
+  <footer class="footer">
+    <div class="wrap">
+      <p><b>VoltKart</b> – genuine electronics, 7-day replacement, free delivery above ₹999.</p>
+      <p class="muted">Demo store: payments are simulated and no real orders are placed.</p>
+    </div>
+  </footer>
+
+  <!-- cart drawer -->
+  <div class="scrim" id="scrim" hidden></div>
+  <aside class="drawer" id="drawer" aria-label="Shopping cart" hidden>
+    <div class="drawer-head">
+      <h2>Your cart</h2>
+      <button class="icon-btn" id="closeDrawer" aria-label="Close cart">✕</button>
+    </div>
+    <div class="drawer-body" id="drawerBody"></div>
+    <div class="drawer-foot" id="drawerFoot"></div>
+  </aside>
+
+  <!-- generic modal -->
+  <div class="modal" id="modal" hidden>
+    <div class="modal-card" role="dialog" aria-modal="true" id="modalCard"></div>
+  </div>
+
+  <div class="toasts" id="toasts" aria-live="polite"></div>
+  <script src="app.js"></script>
+</body>
+</html>
